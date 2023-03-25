@@ -3,6 +3,7 @@
 This app is built as the 6 project in row or the 2 major one, on this project we have learned how to communicate with servers how to use JSON and much more stuff like !
 GPS sensors etc
 
+![1](https://user-images.githubusercontent.com/69488900/227727416-19f0bb68-ef9f-43c0-b6b1-2fe91c45f762.png)
 ![2](https://user-images.githubusercontent.com/69488900/227727288-c38f380d-58fb-4de0-8342-077fe6821c8d.png)
 ![3](https://user-images.githubusercontent.com/69488900/227727294-f0dcb00b-0404-4f8e-a82b-36334f7968b2.png)
 ![4](https://user-images.githubusercontent.com/69488900/227727301-faac0b7e-1ce6-46eb-bc11-45f8103f139b.png)
