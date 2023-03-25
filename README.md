@@ -1,6 +1,6 @@
 # Weather_App
 
-This app is built as the 6 project in row or the 2 major one, on this project we have learned how to communicate with servers how to use JSON and much more stuff like !
+This app is built as the 6 project in row or the 2 major one, on this project I have learned how to communicate with servers how to use JSON and much more stuff like !
 GPS sensors etc
 
 ![1](https://user-images.githubusercontent.com/69488900/227727416-19f0bb68-ef9f-43c0-b6b1-2fe91c45f762.png)
